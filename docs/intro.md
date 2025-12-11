@@ -115,7 +115,6 @@ Need help? We're here for you:
 
 - Follow us on [Twitter](https://twitter.com/swiftbridge)
 - Join our [Telegram Community](https://t.me/swiftbridgecommunity)
-- Read our [Blog](/blog)
 
 ## Roadmap
 
